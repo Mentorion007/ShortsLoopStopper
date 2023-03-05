@@ -1,0 +1,3 @@
+This addon does not gather any form of data from its user.
+
+The user is free to use and modify this addon. We hope you enjoy it.
